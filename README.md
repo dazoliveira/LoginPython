@@ -1,6 +1,6 @@
 # Login Python
 # Instruções
-1. Instalar o pyhton versao 3.4.3 ou superiores.
+1. Instalar o pyhton versão 3.4.3 ou superiores.
 2. Instalar o framework django versão 1.9 ou superiores com o comando easy-install no prompt command (windows: "easy-install django", linux: "sudo easy-install django").
 3. Clonar esse projeto para seu computador.
 4. Via prompt command ir ao diretório do projeto (ex.: windows:  "cd c:\users\douglas\desktop\website", Linux:"sudo cd c:\users\douglas\desktop\website").
